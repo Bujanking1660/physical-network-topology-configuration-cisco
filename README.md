@@ -37,4 +37,3 @@ Tugas ini mensimulasikan penyusunan perangkat jaringan di dalam rak (*wiring clo
 ---
 © 2025 Rizkya Gusnaldy Kalia
 
-```
